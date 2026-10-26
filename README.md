@@ -5,6 +5,8 @@
 [![Test Suite: 100% Passed](https://img.shields.io/badge/Tests-8%2F8_Passing-brightgreen?style=for-the-badge)](test_appeal.py)
 [![TikTok Ads Credit: Up to $6,000 Match](https://img.shields.io/badge/TikTok_Ads_Credit-Up_To_$6,000_Match-25f4ee?style=for-the-badge&logo=tiktok&logoColor=black)](https://adgrowth-lab.github.io/)
 [![Official Partner Gateway](https://img.shields.io/badge/Official_Route-Direct_TikTok_Partner-fe2c55?style=for-the-badge&logo=tiktok&logoColor=white)](https://getstartedtiktok.partnerlinks.io/apmgdhnv6eng)
+[![Latest Release](https://img.shields.io/badge/Release-v2026.1.0-blue?style=for-the-badge&logo=github)](https://github.com/adgrowth-lab/tiktok-ads-appeal-kit/releases)
+[![Resolved Cases](https://img.shields.io/badge/Resolved_Cases-4_Verified_Q&A-brightgreen?style=for-the-badge&logo=github)](https://github.com/adgrowth-lab/tiktok-ads-appeal-kit/issues?q=is%3Aissue+is%3Aclosed)
 [![Master Field Guide](https://img.shields.io/badge/Ecosystem-TikTok_Troubleshooting_Suite-orange?style=for-the-badge)](https://github.com/adgrowth-lab/tiktok-ads-troubleshooting)
 
 > **Battle-tested TikTok Ads account suspension appeal templates, 4-pillar evidence packets, and clean-slate relaunch SOP for TikTok Ads Manager and Business Center bans.**  
@@ -173,6 +175,19 @@ Mapping real Google and Reddit advertiser appeal search queries to specific temp
 | **`how to appeal tiktok ad account suspension`** | General Tier-1 Ticket | Emotional or 1-sentence appeal rejected by automated bots | Follow **4-Pillar Evidence Architecture** and run `python3 appeal.py` |
 | **`tiktok ad credit voucher paused appeal`** | Promotion Pause | Payment method hold causing promo credit disassociation | Submit via official payment appeal portal or execute Clean-Slate protocol |
 | **`how to get unbanned on tiktok ads manager`** | Account Sandboxed | Repeated disapprovals placing account in $50/day spend limit | Request Tier-2 review or upgrade to verified [Agency Line](https://getstartedtiktok.partnerlinks.io/apmgdhnv6eng) |
+
+---
+
+## 💬 Solved Suspension Cases & Community Q&A Threads
+
+Real advertiser suspension appeals and account recovery cases resolved using this toolkit:
+
+| Solved Case / Discussion Thread | Suspension Type | Verified Resolution Summary | Direct Q&A Link |
+| :--- | :--- | :--- | :--- |
+| **`[Template] How to appeal TikTok Ads account suspended for "Unusual Activity" (100% accepted evidence packet)`** | Unusual Activity Risk Hold | Submitted 4-Pillar evidence packet with corporate documents; ban revoked in 14 hours. | [View Solution #1](https://github.com/adgrowth-lab/tiktok-ads-appeal-kit/issues/1) |
+| **`[Fixed] TikTok Ads payment discrepancy billing hold: How to verify virtual card statement and unfreeze account`** | Card Billing Verification | Redacted middle 8 digits on bank statement; reconciled legal LLC name with Business Center. | [View Solution #2](https://github.com/adgrowth-lab/tiktok-ads-appeal-kit/issues/2) |
+| **`[Guide] TikTok Business Center permanently disabled appeal: Agency portfolio quarantine protocol`** | Business Center Agency Ban | Quarantined rogue client ID; submitted agency contract proof; restored portfolio access. | [View Solution #3](https://github.com/adgrowth-lab/tiktok-ads-appeal-kit/issues/3) |
+| **`[FAQ] What to do if your TikTok ad credit voucher was paused after account suspension?`** | Promo Voucher Inactivation | Re-associated promo voucher via billing ticket or onboarded via direct partner link ($6,000 match). | [View Solution #4](https://github.com/adgrowth-lab/tiktok-ads-appeal-kit/issues/4) |
 
 ---
 
